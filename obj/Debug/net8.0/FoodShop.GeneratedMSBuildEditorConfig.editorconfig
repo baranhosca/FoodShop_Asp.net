@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FoodShop
+build_property.RootNamespace = FoodShop
+build_property.ProjectDir = C:\Users\hscba\Documents\Programming\ASP.NET\FoodShop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hscba\Documents\Programming\ASP.NET\FoodShop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Category/CategoryAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Category/CategoryGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Chart/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcSW5kZXgyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Chart/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcU3RhdGlzdGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Default/CategoryDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDYXRlZ29yeURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Default/Components/CategoryGetList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb21wb25lbnRzXENhdGVnb3J5R2V0TGlzdFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Default/Components/FoodGetList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb21wb25lbnRzXEZvb2RHZXRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Default/Components/FoodListByCategory/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxDb21wb25lbnRzXEZvb2RMaXN0QnlDYXRlZ29yeVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Food/FoodAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxGb29kQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Food/FoodGet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxGb29kR2V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Food/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hscba/Documents/Programming/ASP.NET/FoodShop/Views/Shared/_SiteLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaXRlTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
